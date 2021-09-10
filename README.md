@@ -13,13 +13,5 @@
 
 <br />
 
-
-
-
-
----
-
-[![Joh Smith's Github Stats](https://github-readme-stats.vercel.app/api?username=joshsmithy&count_private=true&show_icons=true)](https://github.com/Joshsmithy)
-
 [website]: https://josh.jsmithy.uk
 [linkedin]: https://www.linkedin.com/in/jsmithy
